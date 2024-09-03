@@ -1,0 +1,65 @@
+# Arquivos e pastas de configuração do Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.suo
+*.cache
+*.csproj.user
+*.dbmdl
+*.bak
+*.log
+*.tmp
+
+# Diretórios e arquivos do build
+bin/
+obj/
+Debug/
+Release/
+
+# Arquivos de configuração de build
+*.csproj.user
+*.csproj.vspscc
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.suo
+*.userprefs
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Arquivos de usuário específicos
+*.log
+*.pidb
+*.svclog
+*.pdb
+*.opendb
+*.dbmdl
+
+# Arquivos de pacote
+*.nupkg
+*.snupkg
+
+# Arquivos de cache de NuGet
+*.nuget/
+packages/
+
+# Ferramentas de terceiros
+*.dll
+*.exe
+*.pdb
+*.config
+*.log
+*.dmp
+
+# Arquivos do Visual Studio Code
+*.code-workspace
+
+# Diretório de testes
+TestResults/
